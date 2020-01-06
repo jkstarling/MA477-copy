@@ -669,11 +669,11 @@ For a more extensive discussion you may visit the official documentation page fo
 
 
 
-<h2>====================================================</h2>
+<h2>===================================================</h2>
 
 <h1>HOMEWORK #1</h1>
 
-<h2>====================================================</h2>
+<h2>===================================================</h2>
 
 <h3> Complete the following exercises</h3>
 <br>
