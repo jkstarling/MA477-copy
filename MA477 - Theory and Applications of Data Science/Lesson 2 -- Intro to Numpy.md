@@ -6,7 +6,7 @@
  <h4><center>Dr. Valmir Bucaj</center></h4>
  <center>United States Military Academy, West Point</center> 
  <center> AY20-2</center>
-<h2>====================================================</h2>
+<h2>===================================================</h2>
 
 NumPy (or Numpy) is the main library for scientific computing in Python. It provides a high-performance multidimensional array object, and tools for working with these arrays. One may think of NumPy as a Linear Algebra library for Python. 
 
