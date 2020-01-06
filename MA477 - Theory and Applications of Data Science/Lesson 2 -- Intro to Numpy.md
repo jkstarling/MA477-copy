@@ -1,12 +1,12 @@
 
-<h2> ========================================================================</h2>                               
- <h1><center>MA477 $-$ Theory and Applications of Data Science</center></h1> 
+<h2> ===================================================</h2>                               
+ <h1><center>MA477 - Theory and Applications of Data Science</center></h1> 
   <h1><center>Lesson 2: Introduction to NumPy</center></h1> 
  
  <h4><center>Dr. Valmir Bucaj</center></h4>
  <center>United States Military Academy, West Point</center> 
  <center> AY20-2</center>
-<h2>=========================================================================</h2>
+<h2>====================================================</h2>
 
 NumPy (or Numpy) is the main library for scientific computing in Python. It provides a high-performance multidimensional array object, and tools for working with these arrays. One may think of NumPy as a Linear Algebra library for Python. 
 
@@ -668,15 +668,12 @@ For a more extensive discussion you may visit the official documentation page fo
 </ol>
 
 
-```python
 
-```
+<h2>====================================================</h2>
 
-<h2>=====================================================================</h2>
-<br>
-<center><font color='red' size=6><b>HOMEWORK #1</b></font></center>
+<h1>HOMEWORK #1</h1>
 
-<h2>=====================================================================</h2>
+<h2>====================================================</h2>
 
 <h3> Complete the following exercises</h3>
 <br>
