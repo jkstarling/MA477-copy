@@ -1,12 +1,12 @@
 
-<h2> ======================================================</h2>
+<h2> ====================================================</h2>
  <h1>MA477 - Theory and Applications of Data Science</h1> 
   <h1>Lesson 1: General Overview</h1> 
  
  <h4>Dr. Valmir Bucaj</h4>
  <br>
  United States Military Academy, West Point, AY20-2
-<h2>=======================================================</h2>
+<h2>=====================================================</h2>
 
 <h2> Lecture Outline</h2>
 
